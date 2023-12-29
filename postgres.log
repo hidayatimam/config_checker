@@ -1,0 +1,9 @@
+2023-12-29 09:01:25,616 [ERROR]: Terjadi kesalahan: MSWORD_FRIENDLY
+2023-12-29 09:02:37,233 [INFO]: Access - User: postgres, Database: python
+2023-12-29 09:09:07,644 [ERROR]: Terjadi kesalahan: connection to server at "127.0.0.1", port 432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2023-12-29 09:09:33,079 [ERROR]: Terjadi kesalahan: connection to server at "127.0.0.1", port 5432 failed: FATAL:  database "coba" does not exist
+
+2023-12-29 09:10:30,763 [ERROR]: Terjadi kesalahan: invalid integer value "'" for connection option "port"
+
